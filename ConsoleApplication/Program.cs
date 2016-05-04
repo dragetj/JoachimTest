@@ -10,7 +10,7 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("window 1");
+            Console.WriteLine("Denne skal committes i kommandolinje!");
         }
     }
 }
